@@ -18,7 +18,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados e tecnologias we
 <h2>Redes Sociais</h2>
 <div>
   <a href = "mailto:davidbarros1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-barros-a44117254 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/davidbarros1405 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h2>Minhas Estatísticas </h2>
 
