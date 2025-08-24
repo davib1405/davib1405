@@ -13,6 +13,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados e tecnologias we
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
+
 ##
 <h2>Redes Sociais</h2>
 <div>
