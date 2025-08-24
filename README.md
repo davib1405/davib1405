@@ -14,7 +14,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados e tecnologias we
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
 
-##
+
 <h2>Redes Sociais</h2>
 <div>
   <a href = "mailto:davidbarros1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
